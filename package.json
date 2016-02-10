@@ -1,6 +1,6 @@
 {
   "name": "teamcity-package-reporter",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A cli to notify TeamCity of the parameters stored in an npm package.json file.",
   "main": "./src/git index.js",
   "scripts": {
