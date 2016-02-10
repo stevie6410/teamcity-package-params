@@ -1,0 +1,22 @@
+{
+  "name": "teamcity-package-reporter",
+  "version": "1.0.0",
+  "description": "A cli to notify TeamCity of the parameters stored in an npm package.json file.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Simon Bruce",
+    "email": "blacksun1@users.noreply.github.com",
+    "url": "http://blog.blacksun.cx"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0 <5.0.0"
+  },
+  "bin": "./src/index.js",
+  "dependencies": {
+    "teamcity-service-messages": "^0.1.6"
+  }
+}
