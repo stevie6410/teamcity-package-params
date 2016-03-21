@@ -13,19 +13,19 @@ function outputPackageParameters() {
     const packageJson = JSON.parse(data);
 
     if (packageJson.name) {
-      tsm.setParameter({"PACKAGE_NAME": packageJson.name});
+      tsm.setParameter({"name": "PACKAGE_NAME", "value": packageJson.name});
     }
 
     if (packageJson.description) {
-      tsm.setParameter({"PACKAGE_DESCRIPTION": packageJson.description});
+      tsm.setParameter({"name": "PACKAGE_DESCRIPTION", "value": packageJson.description});
     }
 
     if (packageJson.version) {
-      tsm.setParameter({"PACKAGE_VERSION": packageJson.version});
+      tsm.setParameter({"name": "PACKAGE_VERSION", "value": packageJson.version});
     }
 
     if (packageJson.license) {
-      tsm.setParameter({"PACKAGE_LICENSE": packageJson.license});
+      tsm.setParameter({"name": "PACKAGE_LICENSE", "value": packageJson.license});
     }
   });
 }
