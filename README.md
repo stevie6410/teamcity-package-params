@@ -1,5 +1,7 @@
 # teamcity-package-reporter
 
+[![Dependencies](https://david-dm.org/blacksun1/teamcity-package-reporter.svg)](https://david-dm.org/blacksun1/teamcity-package-reporter)
+
 ## How to install
 
 	npm install -g teamcity-package-reporter
