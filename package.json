@@ -4,7 +4,7 @@
   "description": "A cli to notify TeamCity of the parameters stored in an npm package.json file.",
   "main": "./src/index.js",
   "scripts": {
-    "test": "./node_modules/.bin/lab -c -a code"
+    "test": "gulp"
   },
   "author": {
     "name": "Simon Bruce",
@@ -35,6 +35,8 @@
   ],
   "devDependencies": {
     "code": "^3.0.2",
+    "gulp": "^3.9.1",
+    "gulp-lab": "^1.0.6",
     "lab": "^11.0.1",
     "sinon": "^1.17.6"
   }
