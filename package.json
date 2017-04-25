@@ -15,13 +15,6 @@
   "engines": {
     "node": ">=4.0.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/blacksun1/teamcity-package-reporter.git"
-  },
-  "bugs": {
-    "url": "https://github.com/blacksun1/teamcity-package-reporter/issues"
-  },
   "bin": "./src/index.js",
   "dependencies": {
     "teamcity-service-messages": "^0.1.8"
