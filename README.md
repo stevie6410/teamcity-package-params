@@ -4,6 +4,8 @@
 [![Dependency Status](https://david-dm.org/blacksun1/teamcity-package-reporter.svg)](https://david-dm.org/blacksun1/teamcity-package-reporter)
 [![devDependency Status](https://david-dm.org/blacksun1/teamcity-package-reporter/dev-status.svg)](https://david-dm.org/blacksun1/teamcity-package-reporter#info=devDependencies)
 
+Quick and dirty fork to allow +7 node versions
+
 ## How to install
 
 ```bash
