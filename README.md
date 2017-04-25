@@ -4,6 +4,8 @@
 
 Quick and dirty fork to allow +7 node versions
 
+Originaly from this repo: https://github.com/blacksun1/teamcity-package-reporter
+
 ## How to install
 
 ```bash
