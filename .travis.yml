@@ -10,6 +10,6 @@ node_js:
 sudo: false
 
 deploy: 
-  provide: npm
+  provider: npm
   email: "stevekent55@me.com"
   api_key: "bd16e4a7-4919-4ff7-b547-2213546ba65e"
