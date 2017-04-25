@@ -1,8 +1,6 @@
 # teamcity-package-reporter
 
-[![Build Status](https://snap-ci.com/blacksun1/teamcity-package-reporter/branch/master/build_image)](https://snap-ci.com/blacksun1/teamcity-package-reporter/branch/master)
-[![Dependency Status](https://david-dm.org/blacksun1/teamcity-package-reporter.svg)](https://david-dm.org/blacksun1/teamcity-package-reporter)
-[![devDependency Status](https://david-dm.org/blacksun1/teamcity-package-reporter/dev-status.svg)](https://david-dm.org/blacksun1/teamcity-package-reporter#info=devDependencies)
+[![Build Status](https://travis-ci.org/stevie6410/teamcity-package-params.svg?branch=master)
 
 Quick and dirty fork to allow +7 node versions
 
