@@ -9,12 +9,12 @@ Originaly from this repo: https://github.com/blacksun1/teamcity-package-reporter
 ## How to install
 
 ```bash
-npm install -g teamcity-package-reporter
+npm install -g teamcity-package-params
 ```
 
 ## How to use
 
-Change directory into a folder with an existing package.json file and then execute `teamcity-package-reporter`. It will report the following paramaters to TeamCity:
+Change directory into a folder with an existing package.json file and then execute `teamcity-package-params`. It will report the following paramaters to TeamCity:
 
 * `PACKAGE_NAME`: The packages name attribute.
 * `PACKAGE_DESCRIPTION`: The packages description attribute.
