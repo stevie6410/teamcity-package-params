@@ -1,6 +1,6 @@
 # teamcity-package-reporter
 
-[![Build Status](https://travis-ci.org/stevie6410/teamcity-package-params.svg?branch=master)
+[![Build Status](https://travis-ci.org/stevie6410/teamcity-package-params.svg?branch=master)](https://travis-ci.org/stevie6410/teamcity-package-params.svg?branch=master)
 
 Quick and dirty fork to allow +7 node versions
 
